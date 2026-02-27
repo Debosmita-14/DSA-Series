@@ -1,3 +1,17 @@
+/*
+Problem: Largest Element in Array
+Platform: geeksforgeeks
+Difficulty: Basic
+
+Approach:
+- Use Array
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
+
+
 package Arrays;
 class Largest{
     public static int largest(int[] arr) {
