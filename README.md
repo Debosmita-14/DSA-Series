@@ -20,12 +20,10 @@ I am solving DSA problems daily to strengthen my problem-solving skills and prep
 
 ## 📊 Progress Tracker
 
-| Topic        | Problems Solved |
-|-------------|-----------------|
-| Arrays      | 4             |
-| Strings     | 0               |
-| LinkedList  | 0               |
-| Recursion   | 0              |
+| Problems Solved |
+|-----------------|
+| 14              |           
+
 
 ---
 
